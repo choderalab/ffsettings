@@ -1,7 +1,5 @@
 """General FFSettings Object"""
 
-# Add imports here
-from .ffsettings import *
+from importlib.metadata import version
 
-
-from ._version import __version__
+__version__ = version("ffsettings")
