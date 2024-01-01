@@ -13,6 +13,6 @@ Copyright (c) 2023, Chodera Lab
 
 
 #### Acknowledgements
- 
-Project based on the 
+
+Project based on the
 [Computational Molecular Science Python Cookiecutter](https://github.com/molssi/cookiecutter-cms) version 2.0.
