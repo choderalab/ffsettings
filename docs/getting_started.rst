@@ -1,4 +1,4 @@
 Getting Started
 ===============
 
-This page details how to get started with FFSettings. 
+This page details how to get started with FFSettings.
